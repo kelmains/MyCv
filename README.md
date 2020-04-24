@@ -5,7 +5,7 @@ NATIONALITY:KENYAN
 GENDER:     MALE
 LANGUAGE:   ENGLISH, KISWAHILI
 
-##` ProjectDescription
+## ProjectDescription
 This is a project to come up with portfolio detailing my work experience and about me
 
 ## Requirements
