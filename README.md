@@ -1,22 +1,22 @@
-#Portfolio
+#  Portfolio
 PERSONAL DETAILS;
 Name: MAINA KELVIN
 NATIONALITY:KENYAN
 GENDER:     MALE
 LANGUAGE:   ENGLISH, KISWAHILI
 
-##ProjectDescription
+##` ProjectDescription
 This is a project to come up with portfolio detailing my work experience and about me
 
-##Requirements
+## Requirements
  A web browser or complier
 
-##TechnologyUsed
+## TechnologyUsed
 -HTML, css
 -Atom
 -Ubuntu termial
 -github
 
-###LinksToProjects
+### LinksToProjects
 https://kelmains.github.io/MyCv/
 https://kelmains.github.io/First-lesson/
